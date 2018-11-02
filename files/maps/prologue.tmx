@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="10" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="ch1" tilewidth="16" tileheight="16">
+  <image source="../../../../../Users/Luka/workspaceC++/FE/data/img/tilesets/chprologue_tileset.png" width="128" height="144"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJztzccNgEAMRNFdcs45p/5r5COZHjgw0pMvY1srpQyYsGDDEa5MLR0PPgKEiBAjQYoMuShQokKNBi069BgwYsKMRX49eys2seMQ740Tl/rz5dwXTgNC
+  </data>
+ </layer>
+</map>

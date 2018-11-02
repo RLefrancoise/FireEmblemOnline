@@ -1,0 +1,65 @@
+#warehouse_item_type_select_menu {
+    width:100%;
+
+    text-align:center;
+
+    display:inline-block;
+    padding:0;
+    margin:auto;
+    margin-top:3px;
+    margin-bottom:3px;
+}
+
+#warehouse_item_type_select_menu ul {
+    list-style-type : none;
+    padding:0;
+    margin:0;
+}
+
+#warehouse_item_type_select_menu li {
+    display : inline-block;
+    min-width:24px;
+    height:24px;
+    line-height: 24px;
+    vertical-align: middle;
+    padding:3px;
+    margin-left:0.3em;
+    margin-right:0.3em;
+
+    border:1px solid rgb(140,147,131);
+    border-radius:2px;
+    background-color:rgb(41,30,26);
+}
+
+#warehouse_item_type_select_menu a:visited, #warehouse_item_type_select_menu a:link {
+    color:rgb(121,118,99);
+    text-decoration:none;
+}
+
+#warehouse_item_type_select_menu a:hover{
+    color:rgb(237,233,170);
+    text-decoration:none;
+}
+
+#warehouse_div {
+    width:95%;
+    min-height:500px;
+    text-align:center;
+    margin:auto;
+    margin-top:10px;
+    margin-bottom:10px;
+
+    padding:5px;
+
+    /*border:1px solid rgb(140,147,131);
+    border-radius:2px;
+    background-color:rgb(41,30,26);*/
+}
+
+.menu_item_row {
+    padding:3px;
+}
+
+.menu_item_row:hover {
+    background-color:rgba(64,128,192,0.5);
+}

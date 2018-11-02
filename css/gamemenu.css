@@ -1,0 +1,38 @@
+#game_menu {
+	width:1000px;
+	
+	text-align:center;
+	
+	display:inline-block;
+	padding:0;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+
+#game_menu ul {
+	list-style-type : none;
+	padding:0;
+	margin:0;
+}
+
+#game_menu li {
+	display : inline-block;
+	min-width:80px;
+	padding:0;
+	margin-left:0.3em;
+	margin-right:0.3em;
+	
+	border:1px solid rgb(140,147,131);
+	border-radius:2px;
+	background-color:rgb(41,30,26);
+}
+
+#game_menu a:visited, #game_menu a:link {
+	color:rgb(121,118,99);
+	text-decoration:none;
+}
+
+#game_menu a:hover{
+	color:rgb(237,233,170);
+	text-decoration:none;
+}

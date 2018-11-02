@@ -1,0 +1,10 @@
+#canvas_id {
+	border:1px solid rgb(140,147,131);
+	border-radius:2px;
+	width:320px;
+	height:240px;
+	position:relative;
+	left:50%;
+	margin-left:-160px;
+	margin-top:10px;
+}
