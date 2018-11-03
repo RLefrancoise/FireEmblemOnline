@@ -35,3 +35,13 @@ There are many many things that still need to be done.
 - Account management
 - About page content
 - Forum
+
+## Screenshots
+
+![Screen 1](/docs/screen1.png)
+![Screen 2](/docs/screen2.png)
+![Screen 3](/docs/screen3.png)
+![Screen 4](/docs/screen4.png)
+![Screen 5](/docs/screen5.png)
+![Screen 6](/docs/screen6.png)
+![Screen 7](/docs/screen7.png)
